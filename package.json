@@ -1,0 +1,10 @@
+{
+  "name": "@mehwww/china-coords",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [],
+  "author": "meh",
+  "license": "MIT"
+}
